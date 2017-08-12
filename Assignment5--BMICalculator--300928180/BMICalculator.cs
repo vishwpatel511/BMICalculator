@@ -53,7 +53,7 @@ namespace Assignment5__BMICalculator__300928180
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void BMICalculator_FormClosing(object sender, FormClosingEventArgs e)
+        private void BMICalculator_FormClosing(object sender, FormClosingEventArgs e)  //Form closing EventHandler 
         {
             Application.Exit();
         }
