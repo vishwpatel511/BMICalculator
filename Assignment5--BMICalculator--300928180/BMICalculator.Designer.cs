@@ -1,4 +1,4 @@
-﻿namespace BMICalculator
+﻿namespace Assignment5__BMICalculator__300928180
 {
     partial class BMICalculator
     {

@@ -12,10 +12,10 @@ using System.Windows.Forms;
 * Student ID: 300928180
 * Date Modified: August 11, 2017
 * Description: Assignment 5  BMICalculator
-* version: 0.1 Final version
+* version: 0.1 Final version Created SplashForm, Updated UI and added Functionality
 */
 
-namespace BMICalculator
+namespace Assignment5__BMICalculator__300928180
 {
     public partial class BMICalculator : Form
     {
