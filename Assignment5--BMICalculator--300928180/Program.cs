@@ -11,7 +11,7 @@ namespace Assignment5__BMICalculator__300928180
     * Student ID: 300928180
     * Date Modified: August 11, 2017
     * Description: Assignment 5 
-    * Version: 0.1 Final version Created SplashForm, Updated UI and added Functionality
+    * Version: 0.2 Started SplashForm First
     */
     static class Program
     {
@@ -23,7 +23,7 @@ namespace Assignment5__BMICalculator__300928180
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new BMICalculator());
+            Application.Run(new SplashForm());
         }
     }
 }
